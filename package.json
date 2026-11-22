@@ -1,0 +1,23 @@
+{
+  "name": "agrinexa-ai",
+  "version": "1.0.0",
+  "description": "AgriNexa AI — Farmer Information & Mandi Intelligence Platform",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "test": "cd backend && npm test"
+  },
+  "keywords": [
+    "agrinexa",
+    "agriculture",
+    "farmers",
+    "mandi",
+    "agmarknet",
+    "rag",
+    "llm"
+  ],
+  "author": "AgriNexa AI Team",
+  "license": "ISC"
+}
