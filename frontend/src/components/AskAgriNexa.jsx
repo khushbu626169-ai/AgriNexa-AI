@@ -307,7 +307,7 @@ export default function AskAgriNexa({ lang }) {
           onChange={(e) => setInput(e.target.value)}
           placeholder={t.chatPlaceholder}
           disabled={loading}
-          className="flex-1 px-3 py-3 text-sm bg-transparent outline-none text-white placeholder-slate-400 font-medium"
+          className="flex-1 px-3 py-3 text-sm bg-white outline-none text-gray-900 placeholder-slate-500 caret-gray-900 font-medium"
         />
         <button
           type="submit"
